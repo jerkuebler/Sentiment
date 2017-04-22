@@ -1,3 +1,5 @@
+"""Run sentiment analysis on a collection of movie reviews"""
+
 import collections
 
 import itertools
